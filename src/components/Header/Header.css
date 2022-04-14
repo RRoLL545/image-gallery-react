@@ -1,0 +1,39 @@
+.header {
+  max-width: 1280px;
+  height: 10vh;
+  margin: 0 auto;
+  padding: 5px 30px;
+  font-family: Arial;
+  color: #F1CDB3;
+  background-color: chocolate;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gallery-logo {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-image {
+  width: 48px;
+  height: 48px;
+  background-image: url('../../assets/img/icon-logo.png');
+}
+
+.logo-image:hover {
+  transform: rotate(1turn);
+  transition: all, 0.3s;
+}
+
+.h1-header {
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 110%;
+  letter-spacing: 0.06em;
+}

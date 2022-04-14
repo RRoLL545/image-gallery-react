@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+.container-root {
+  height: 100vh;
+  background-color: chocolate;
+}
+
+.main-content {
+  height: 75vh;
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: beige;
+}
