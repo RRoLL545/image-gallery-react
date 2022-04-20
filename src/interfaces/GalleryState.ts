@@ -1,3 +1,4 @@
+import { StateStep } from "./ImageCardsActions";
 import { ImageCardData } from "./ImageCardData";
 
 
@@ -6,20 +7,25 @@ export interface GalleryState {
   /**
    * Gallery items data loading state
    */
-   itemsLoading: boolean,
+  itemsLoading: boolean,
 
    /**
     * Error status of loading gallery items data
     */
-   errorStatus: boolean,
+  errorStatus: boolean,
  
    /**
     * Error message
     */
-   errorMessage: string
+  errorMessage: string
  
    /**
     * Procedure step
     */
-  //  stateStep: StateStep
+  stateStep: StateStep
+
+  /**
+   * Browse image url
+   */
+  browseImageUrl: string
 }

@@ -1,0 +1,27 @@
+.navigation-bar-list__item {
+  color: #000000;
+  transition: color 0.5s;
+}
+
+.navigation-bar-list__item:hover {
+  color: #FFFFFF;
+  transition: all 0.3s;
+  padding-bottom: 5px;
+  border-bottom: #FFFFFF 3px solid;
+}
+
+.navigation-bar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.navigation-bar-list {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}

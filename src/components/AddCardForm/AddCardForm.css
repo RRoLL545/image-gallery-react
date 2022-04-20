@@ -1,0 +1,27 @@
+.add-card-form {
+  position: absolute;
+  width: 80%;
+  height: 50%;
+  top: 12%;
+  left: 10%;
+  background-color: beige;
+  z-index: 1000;
+  padding: 10px;
+  border: 2px solid chocolate;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-card-form-heading {
+  text-align: center;
+  font-weight: bold;
+}
+
+.add-card-form-control {
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}

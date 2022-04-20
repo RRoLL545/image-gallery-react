@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+.container-root {
+  height: 100vh;
+  background-color: chocolate;
+}
+
+.overlay-layer.overlay {
+  overflow: hidden;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, .5);
+  z-index: 90;
+}
+
+.main-content {
+  height: 75vh;
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: beige;
+  padding-top: 30px;
+  overflow-y: auto;
+}
+
+.cards-list-heading {
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 110%;
+  letter-spacing: 0.06em;
+  color: chocolate;
+  text-align: center;
+}
+
+.content-wrapper {
+  max-width: 1080px;
+  margin: 0 auto;
+}
