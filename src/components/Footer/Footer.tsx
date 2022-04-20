@@ -31,7 +31,7 @@ const Footer = (): JSX.Element => {
       <hr className="footer-hr"/>
       <div className="bottom-footer">
         <div className="bottom-footer_date">© 2022</div>
-        <h2 className="bottom-footer_heading">Image gallery task</h2>
+        <h2 className="bottom-footer_heading">Image gallery</h2>
         <a href="https://github.com/RRoLL545" className="bottom-footer_github-link" target="_blank" rel="noreferrer"></a>
       </div>
     </footer>

@@ -7,8 +7,8 @@
   font-size: 28px;
   transition: all, 0.3s;
   position: absolute;
-  top: 60%;
-  right: 20%;
+  top: 20%;
+  right: 10%;
 }
 
 .add-button:hover {
