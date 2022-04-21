@@ -11,7 +11,7 @@
   * использование React, React-Redux;
   * изменение порядка изображенийперетаскиванием (не реализовано).
 
-2. Deploy [link](https://rroll545.github.io/Shopping-cart/)
+2. Deploy [link](https://rroll545.github.io/image-gallery-react/)
 
 
 ## Getting Started
