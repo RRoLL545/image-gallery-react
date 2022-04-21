@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.08e2679d.css",
-    "main.js": "/static/js/main.75f7aab8.js",
-    "static/media/vk-logo.svg": "/static/media/vk-logo.6079f47cdb15b5d96afd.svg",
-    "static/media/edit-button-icon.svg": "/static/media/edit-button-icon.31682fcc84045c51f8db.svg",
-    "static/media/git-hub-logo.svg": "/static/media/git-hub-logo.8299ad785d38ad5ac59d.svg",
-    "static/media/telegram-logo.svg": "/static/media/telegram-logo.a7c661794eb8d5be316c.svg",
-    "static/media/you-tube-logo.svg": "/static/media/you-tube-logo.ed2f31477abe6d306c52.svg",
-    "index.html": "/index.html",
-    "main.08e2679d.css.map": "/static/css/main.08e2679d.css.map",
-    "main.75f7aab8.js.map": "/static/js/main.75f7aab8.js.map"
+    "main.css": "/image-gallery-react/static/css/main.ac0517bb.css",
+    "main.js": "/image-gallery-react/static/js/main.75f7aab8.js",
+    "static/media/vk-logo.svg": "/image-gallery-react/static/media/vk-logo.6079f47cdb15b5d96afd.svg",
+    "static/media/edit-button-icon.svg": "/image-gallery-react/static/media/edit-button-icon.31682fcc84045c51f8db.svg",
+    "static/media/git-hub-logo.svg": "/image-gallery-react/static/media/git-hub-logo.8299ad785d38ad5ac59d.svg",
+    "static/media/telegram-logo.svg": "/image-gallery-react/static/media/telegram-logo.a7c661794eb8d5be316c.svg",
+    "static/media/you-tube-logo.svg": "/image-gallery-react/static/media/you-tube-logo.ed2f31477abe6d306c52.svg",
+    "index.html": "/image-gallery-react/index.html",
+    "main.ac0517bb.css.map": "/image-gallery-react/static/css/main.ac0517bb.css.map",
+    "main.75f7aab8.js.map": "/image-gallery-react/static/js/main.75f7aab8.js.map"
   },
   "entrypoints": [
-    "static/css/main.08e2679d.css",
+    "static/css/main.ac0517bb.css",
     "static/js/main.75f7aab8.js"
   ]
 }
